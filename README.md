@@ -1,8 +1,6 @@
 # email-subscription-form
 Certainly! Here's a README for an email subscription form that encourages customers to sign up for notifications when your website is up and running:
 
-# Website Coming Soon - Email Subscription Form
-
 ## Introduction
 
 Welcome to our "Website Coming Soon" project! This README will guide you through the implementation and usage of our email subscription form. This form is designed to encourage customers to sign up and receive notifications as soon as our website is live.
